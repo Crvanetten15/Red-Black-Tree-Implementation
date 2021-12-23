@@ -1,0 +1,65 @@
+Gilbert		3	QB	27	6' 3"	230 lbs	2	SMU
+Mayfield	6	QB	23	6' 1"	215 lbs	2	Oklahoma
+Stanton		9	QB	34	6' 3"	226 lbs	12	Michigan State
+Chubb		24	RB	23	5' 11"	227 lbs	2	Georgia
+Hilliard	25	RB	24	5' 11"	202 lbs	2	Tulane
+Mays		32	RB	24	5' 10"	230 lbs	2	Utah State
+Beckham Jr.	13	WR	26	5' 11"	200 lbs	6	LSU
+Callaway	11	WR	22	5' 11"	200 lbs	2	Florida
+Higgins		81	WR	24	6' 1"	198 lbs	4	Colorado State
+Jackson		16	WR	25	5' 10"	200 lbs	1	Mary Hardin-Baylor
+Landry		80	WR	26	5' 11"	196 lbs	6	LSU
+Ratley		18	WR	23	6' 2"	200 lbs	2	Texas A&M
+Sheehy-Guiseppi	14	WR	-	5' 11"	181 lbs	R	-
+Strong		10	WR	25	6' 2"	220 lbs	4	Arizona State
+Willies		84	WR	24	6' 4"	207 lbs	2	Texas Tech
+Brown		86	TE	24	6' 5"	258 lbs	2	Oregon
+Charles		82	TE	28	6' 3"	257 lbs	4	Georgia
+DeValve		87	TE	26	6' 3"	245 lbs	4	Princeton
+Harris		84	TE	27	6' 7"	230 lbs	6	Milwaukee
+Njoku		85	TE	22	6' 4"	246 lbs	3	Miami (FL)
+Hubbard		74	C	27	6' 4"	295 lbs	6	UAB
+Tretter		64	C	28	6' 4"	307 lbs	7	Cornell
+Bitonio		75	G	27	6' 4"	305 lbs	6	Nevada
+Corbett		63	G	23	6' 4"	306 lbs	2	Nevada
+Kalis		68	G	25	6' 4"	310 lbs	2	Michigan
+Kush		64	G	29	6' 4"	317 lbs	7	California (PA)
+Friend		61	OL	25	6' 2"	305 lbs	1	Temple
+Witzmann	78	OL	28	6' 7"	320 lbs	5	South Dakota State
+Bright		98	OT	-	6' 5"	299 lbs	R	Stanford
+Harrison	69	OT	25	6' 6"	295 lbs	2	West Georgia
+Lamm		74	OT	26	6' 6"	310 lbs	5	Appalachian State
+Robinson	78	OT	26	6' 5"	330 lbs	6	Auburn
+Seaton		60	OT	25	6' 8"	325 lbs	1	Villanova
+Garrett		95	DE	23	6' 4"	272 lbs	3	Texas A&M
+Jones		0	DE	27	6' 2"	256 lbs	2	Nevada
+Smith		50	DE	27	6' 1"	266 lbs	6	Arkansas
+Thomas		92	DE	23	6' 5"	278 lbs	2	Miami (FL)
+Zettel		97	DE	26	6' 4"	270 lbs	4	Penn State
+Coley		93	DT	24	6' 1"	310 lbs	3	Florida Atlantic
+Ekuale		96	DT	25	6' 3"	300 lbs	1	Washington State
+Lawrence	99	DT	26	6' 2"	295 lbs	1	Auburn
+Ogunjobi	65	DT	24	6' 3"	305 lbs	3	Charlotte
+Price		91	DT	24	6' 3"	318 lbs	3	UTSA
+Richardson	93	DT	28	6' 3"	295 lbs	7	Missouri
+Armstrong	52	LB	28	6' 3"	235 lbs	7	Miami (FL)
+Avery		55	LB	23	6' 0"	250 lbs	2	Memphis
+Hines		59	LB	24	6' 1"	235 lbs	2	Houston
+Kirksey		58	LB	26	6' 2"	235 lbs	6	Iowa
+Schobert	53	LB	25	6' 1"	245 lbs	4	Wisconsin
+Taylor		53	LB	28	6' 1"	230 lbs	5	Florida Atlantic
+Vernon		54	LB	28	6' 2"	270 lbs	8	Miami (FL)
+Woodson-Luster	56	LB	23	6' 1"	220 lbs	2	Arkansas State
+Burris		31	CB	25	6' 0"	212 lbs	4	North Carolina State
+Carrie		38	CB	28	6' 0"	204 lbs	6	Ohio
+Gaines		33	CB	28	6' 0"	193 lbs	6	Rice
+Lampkin		7	CB	25	6' 0"	189 lbs	2	Oklahoma State
+Mitchell	39	CB	26	5' 11"	191 lbs	6	Oregon
+Pipkins		41	CB	25	6' 0"	196 lbs	3	Oklahoma State
+Randall		23	CB	26	5' 11"	196 lbs	5	Arizona State
+Ward		21	CB	21	5' 11"	190 lbs	2	Ohio State
+Wilson		1	CB	23	6' 0"	184 lbs	2	Houston
+Burnett		42	S	30	6' 1"	209 lbs	10	Georgia Tech
+Murray		21	S	25	5' 11"	199 lbs	4	Minnesota
+Sankoh		14	S	21	5' 11"	214 lbs	1	-
+Whitehead	35	S	26	5' 11"	195 lbs	3	Auburn
