@@ -21,7 +21,7 @@ public class MapEntry {
     public void setKey(String key) {this.key = key;}
     public String setValue(String value) {String old = this.value; this.value = value; return old;}
 
-    
+
     @Override
     public int hashCode() {
         if (key == null) return 0;
