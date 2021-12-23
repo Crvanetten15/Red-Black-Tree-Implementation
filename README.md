@@ -1,8 +1,9 @@
 # CIS-265 - Red Black Tree Implementation
 
-READ ME
-Connor Van Etten 
+####READ ME
+####Student; Connor Van Etten 
 
+###Compilation and Run Instructions
 Make sure you are in the parent of correct folder, then
 To compile;
 -type "javac Test.java" into the command line
@@ -11,7 +12,7 @@ To run code;
 This will run an RBTree Insertion of the browns roster and print out the completed tree with colors
 
 
-Sample Output; (Indented to fit)
+###Sample Output; (Indented to fit)
 | Preorder-Traversal | START || Hilliard - [Black] || Chubb - [Black] || Brown - [Black]
 || Bitonio - [Red] || Avery - [Black] || Armstrong - [Red] || Beckham - [Red] || Bright - [Black]
 || Callaway - [Red] || Burris - [Black] || Burnett - [Red] || Charles - [Black] || Carrie - [Red]
@@ -27,6 +28,6 @@ Sample Output; (Indented to fit)
 || Thomas - [Red] || Vernon - [Black] || Witzmann - [Red] || Willies - [Black] || Whitehead - [Red]
 || Wilson - [Red] || Zettel - [Black] || Woodson-Luster - [Red] || END ||
 
-Known Bugs;
+###Known Bugs;
 
 No Known Bugs 
