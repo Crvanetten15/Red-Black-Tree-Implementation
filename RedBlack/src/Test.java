@@ -13,7 +13,7 @@ public class Test {
 
         //Block takes the File and breaks it into Keys and Values and pushes them to RB Obj
         String lineNeeded, Key, Value;
-        File roster = new File("roster.txt");
+        File roster = new File("C:\\Users\\crvan\\IdeaProjects\\CIS-265\\RedBlack\\src\\roster.txt");
         Scanner file = new Scanner(roster);
         while (file.hasNextLine()) {
             Key = file.next();
