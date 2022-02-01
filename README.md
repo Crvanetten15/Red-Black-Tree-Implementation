@@ -1,4 +1,4 @@
-# CIS-265 - Red Black Tree Implementation
+#Red Black Tree Implementation
 
 ####READ ME
 ####Student; Connor Van Etten 
